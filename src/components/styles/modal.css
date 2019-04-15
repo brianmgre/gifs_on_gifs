@@ -1,0 +1,11 @@
+.material-icons:hover {
+  cursor: pointer;
+}
+
+#liked {
+  color: red;
+}
+
+#notLiked {
+  color: #00aae7;
+}
